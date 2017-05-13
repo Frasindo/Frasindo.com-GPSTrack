@@ -1,6 +1,8 @@
 # Project Frasindo GPS Curl
-* Status Marker 
-** Abu Abu = STOP
-** Biru = Mobil Aktif (nyala)
-** Kuning = ada problem
-** Merah = Mobil dicuri/keluar batas tanpa ijin
+
+* Marker Status 
+** Light Gray = STOP
+** Blue       = Car Active (moving)
+** Yellow     = Car Active (Stop)
+** PINK       = Problem with car
+** RED        = Car Stolen/Out of permitted area
