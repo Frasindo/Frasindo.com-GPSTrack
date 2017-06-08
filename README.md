@@ -1,8 +1,5 @@
-# Project Frasindo GPS Curl
-
-* Marker Status 
-** Light Gray = STOP
-** Blue       = Car Active (moving)
-** Yellow     = Car Active (Stop)
-** PINK       = Problem with car
-** RED        = Car Stolen/Out of permitted area
+# Project Fresindo GPS Curl
+* Status Marker 
+** Abu Abu = STOP
+** Biru = Jalan
+** Biru Muda = Mesin Aktif Mobil Tidak Bergerak 0 KM/jam
